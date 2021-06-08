@@ -1,4 +1,4 @@
-# Assignment1
+# Image Resizing 
 
 This documentation provides the necessary details that would be supportive to setup and execute the Assignment 1 code on self-basis. It provides a step-by-step approach from the Environmental setup until viewing the code execution successfully. 
 
